@@ -1,0 +1,21 @@
+{
+    "name": "bmw_esm_exp_api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.1",
+        "sequelize": "^6.23.2",
+        "tedious": "^15.1.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    }
+}
